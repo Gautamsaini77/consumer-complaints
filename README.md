@@ -1,1 +1,2 @@
 # consumer-complaints
+The projects are related to *data analysis and visualization* with a specific focus on *consumers complaints *. By using Microsoft Excel, the tasks aim to transform raw complaint data into meaningful insights through various analytical techniques. The projects encompass creating reports and dashboards, tracking Key Performance Indicators (KPIs), and identifying trends, patterns in the data. This allows organizations to understand their customer feedback better and make informed decisions to improve their products and services.
